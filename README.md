@@ -83,3 +83,9 @@ For non-square viewports, the Hilbert curve tiles along the long axis. Portrait 
 - Pure SVG — no canvas, no WebGL
 - Deployed to GitHub Pages as `index.html`
 - Built by [slowframe](https://slowframe.io)
+
+---
+
+## License
+
+MIT
