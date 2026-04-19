@@ -1,6 +1,6 @@
 # Hilbert Wormhole
 
-A generative SVG animation that descends perpetually through a tiled Hilbert curve. The tunnel has no floor.
+A generative SVG animation that descends perpetually through a tiled Hilbert curve. The viewer can customize the appearance of the wormhole.
 
 ---
 
