@@ -2,8 +2,6 @@
 
 A generative SVG animation that descends perpetually through a tiled Hilbert curve. The tunnel has no floor.
 
-Part of the [slowframe](https://slowframe.io) portfolio.
-
 ---
 
 ## What It Is
@@ -82,7 +80,6 @@ For non-square viewports, the Hilbert curve tiles along the long axis. Portrait 
 - Single HTML file, no dependencies
 - Pure SVG — no canvas, no WebGL
 - Deployed to GitHub Pages as `index.html`
-- Built by [slowframe](https://slowframe.io)
 
 ---
 
